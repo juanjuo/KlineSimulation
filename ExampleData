@@ -1009,3 +1009,17 @@ student #1000 4.5 false
 265 1 dessertStation
 190 1 pizzaStation
 140 1 grillStation
+
+___________________________________________________________________________________________________________________________________________________________________________
+student #1 2.5 false
+0
+1 5 spoonNfork
+0 5 cleanPlate
+0 5 bigGrillStation
+0 8 sandwichStation
+0 1 glutenFreeSection
+1 1 saladStation
+1 1 sodaStation
+0 1 dessertStation
+0 1 pizzaStation
+0 1 grillStation
